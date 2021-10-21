@@ -20,7 +20,7 @@ public class ButtonInteraction : MonoBehaviour
 
     public void OnMainScoreButtonClicked()
     {
-        simpleUIText.text = "Loading Score Menu...";
+        simpleUIText.text = "Beginning Experience...";
     }
 
 
