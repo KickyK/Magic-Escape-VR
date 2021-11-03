@@ -6,6 +6,11 @@
 [Ll]ogs/
 
 Assets/AssetStoreTools*
+Assets/
+Library/
+Logs/
+Packages/
+ProjectSettings/
 
 # Visual Studio cache directory
 .vs/
